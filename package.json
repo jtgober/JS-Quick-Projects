@@ -1,0 +1,15 @@
+{
+  "name": "JS-Quick-Projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coinflip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-reader": "^1.0.8"
+  }
+}
