@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "csv-reader": "^1.0.8"
+    "crypto-js": "^4.1.1",
+    "csv-reader": "^1.0.8",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.2"
   }
 }
