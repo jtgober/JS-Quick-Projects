@@ -9,9 +9,7 @@ var links = fs.readFileSync('./tests/sample.csv')
 
 for (const link of links) {
     test('test for ' + link.toString(), async ({ page }) => {
-        // Default context and page have locale as specified
         console.log(link);
         await page.goto(link)
-
     })
 }
